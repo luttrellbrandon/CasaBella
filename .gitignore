@@ -137,5 +137,6 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+CasaBella_Static/wp-includes/js/dist/
 !CasaBella_Static/wp-includes/js/dist/hooks.min.js
 !CasaBella_Static/wp-includes/js/dist/i18n.min.js

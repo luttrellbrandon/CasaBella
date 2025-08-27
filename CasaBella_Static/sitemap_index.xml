@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://casabella-cb0.pages.dev/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://casabella-cb0.pages.dev//post-sitemap.xml</loc>
+		<loc>https://casabella-cb0.pages.dev/post-sitemap.xml</loc>
 		<lastmod>2022-03-10T16:08:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://casabella-cb0.pages.dev//page-sitemap.xml</loc>
+		<loc>https://casabella-cb0.pages.dev/page-sitemap.xml</loc>
 		<lastmod>2025-07-01T05:08:51+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://casabella-cb0.pages.dev//homes-sitemap.xml</loc>
+		<loc>https://casabella-cb0.pages.dev/homes-sitemap.xml</loc>
 		<lastmod>2025-06-15T19:05:59+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://casabella-cb0.pages.dev//author-sitemap.xml</loc>
+		<loc>https://casabella-cb0.pages.dev/author-sitemap.xml</loc>
 		<lastmod>2025-05-17T04:23:41+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
